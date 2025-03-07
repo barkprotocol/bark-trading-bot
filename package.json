@@ -20,7 +20,7 @@
     "@solana/spl-token": "^0.4.9",
     "@solana/spl-token-metadata": "^0.1.6",
     "@solana/web3.js": "^1.98.0",
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "bech32": "^2.0.0",
     "bn.js": "^5.2.1",
     "bs58": "^5.0.0",
